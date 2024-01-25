@@ -1,5 +1,5 @@
 # So_Long project
-## How To Use Libft
+## How To Use So_Long
 1. Copy and paste the following in shell
 ```
 git clone https://github.com/Lucabhm/So_Long.git
